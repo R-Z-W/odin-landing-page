@@ -66,6 +66,7 @@ body {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin: 0;
 }
 .display p {
     width: clamp(45ch, 50%, 75ch);
